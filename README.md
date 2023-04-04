@@ -1,5 +1,3 @@
-# quiz_123200144
-
 A new Flutter project.
 
 ## Getting Started
